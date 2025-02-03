@@ -1,4 +1,4 @@
-commit message
+
 from ordered_list import get_ordered_list
 
 def search_ordered_list(lst, target):
